@@ -3,3 +3,4 @@ venv/
 .ipynb_checkpoints/
 /public/data/
 /building_apps_with_vectordbs/wiki.csv
+/building_apps_with_vectordbs/all-the-news-3.csv
