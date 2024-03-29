@@ -4,3 +4,5 @@ venv/
 /public/data/
 /building_apps_with_vectordbs/wiki.csv
 /building_apps_with_vectordbs/all-the-news-3.csv
+/building_apps_with_vectordbs/family/
+/building_apps_with_vectordbs/vectors.vec
